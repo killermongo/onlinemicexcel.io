@@ -1,0 +1,48 @@
+/* _lcid="1033" _version="16.0.8502"
+_LocalBinding */
+#ms-error-header
+{
+margin:118px 0px 16px;
+min-height:50px;
+}
+#ms-error-gobackcont
+{
+margin-top:28px;
+}
+#ms-accessDenied-reqDialog
+{
+max-width:100%;
+}
+#ms-error-body
+{
+background-size:auto;
+overflow:auto;
+width:830px;
+margin-right:auto;
+margin-left:auto;
+}
+.ms-error-returnLink
+{
+line-height:19px;
+vertical-align:middle;
+}
+.ms-error-detailsFold
+{
+padding-top:42px;
+}
+.ms-error-techMsg
+{
+padding-top:28px;
+}
+.ms-error-groupJoinPanel
+{
+margin-top:15px;
+}
+.ms-error-groupProfileText
+{
+margin-top:17px;
+}
+.ms-error-separator
+{
+margin:34px 0px;
+}
